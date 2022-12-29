@@ -1,0 +1,20 @@
+
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©€ûı
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„Ëóúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şá¦üşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹˜»øÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¬Ğ«şşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô¢¦Şıÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "second_word".(Ö¹˜»øÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "first_word".(Şá¦üşÿÿÿÿ
+J
+java:S1481"/Remove this unused "first_word" local variable.(Şá¦üşÿÿÿÿ
+K
+java:S1481"0Remove this unused "second_word" local variable.(Ö¹˜»øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…’éŸøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àš¸
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—˜ê€üÿÿÿÿ

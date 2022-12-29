@@ -1,11 +1,9 @@
 package Questions;
 import java.util.Scanner;
-import org.apache.log4j.Logger;
 
 
 class JavaRegex{
 
-    private static final Logger LOGGER = Logger.getLogger(Logger.class);
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
