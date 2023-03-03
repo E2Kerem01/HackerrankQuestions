@@ -1,3 +1,5 @@
+package Questions;
+
 import java.util.*;
 
 
@@ -62,10 +64,10 @@ public class Anagrams {
 
 
         if ((list2.size()==0) && (counter==a_uzunlugu)){
-            System.out.print("Anagrams");
+            System.out.print("Questions.Anagrams");
         }
         else{
-            System.out.print("Not Anagrams");
+            System.out.print("Not Questions.Anagrams");
 
 
         }

@@ -1,9 +1,15 @@
+package Questions;
+
 import java.util.Scanner;
 
 public class KarpayıHesaplamaAracı {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+
+        String a = ".....";
+        System.out.println(a.startsWith(".") || a.endsWith("."));
+
+        /*Scanner scan = new Scanner(System.in);
         System.out.print("Başlangıç yatırım miktarını giriniz : ");
 
         int ilksayi = scan.nextInt();
@@ -32,7 +38,7 @@ public class KarpayıHesaplamaAracı {
             
         }System.out.println(yatirimYili + " yıl sonra kazanılacak tutar " + ilksayi + " TL kadardır.");
 
-
+*/
     }
     
 }
