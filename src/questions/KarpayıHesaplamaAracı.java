@@ -1,6 +1,4 @@
-package Questions;
-
-import java.util.Scanner;
+package questions;
 
 public class KarpayıHesaplamaAracı {
 

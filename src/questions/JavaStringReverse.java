@@ -1,6 +1,5 @@
-package Questions;
+package questions;
 
-import java.io.*;
 import java.util.*;
 
 public class JavaStringReverse {

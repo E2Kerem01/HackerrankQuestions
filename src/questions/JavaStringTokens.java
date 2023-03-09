@@ -1,6 +1,5 @@
-package Questions;
+package questions;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 
