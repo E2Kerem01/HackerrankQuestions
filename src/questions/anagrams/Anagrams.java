@@ -1,4 +1,4 @@
-package questions;
+package questions.anagrams;
 
 import java.util.*;
 
