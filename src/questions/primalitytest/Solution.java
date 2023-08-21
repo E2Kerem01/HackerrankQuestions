@@ -21,6 +21,11 @@ public class Solution {
         String n = bufferedReader.readLine();
 
         bufferedReader.close();
+
+        //result(Integer.parseInt(n));
+
     }
+
+
 }
 
