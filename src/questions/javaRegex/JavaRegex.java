@@ -1,4 +1,4 @@
-package questions;
+package questions.javaRegex;
 import java.util.Scanner;
 
 

@@ -1,4 +1,4 @@
-package questions;
+package questions.dnaStrand;
 
 import java.util.Scanner;
 

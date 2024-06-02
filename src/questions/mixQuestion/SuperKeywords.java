@@ -1,4 +1,4 @@
-package questions;
+package questions.mixQuestion;
 
 
 public class SuperKeywords{

@@ -1,4 +1,4 @@
-package questions;
+package questions.mixQuestion;
 
 import java.util.ArrayList;
 import java.util.Arrays;

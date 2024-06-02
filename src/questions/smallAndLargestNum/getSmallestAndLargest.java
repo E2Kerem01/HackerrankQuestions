@@ -1,4 +1,4 @@
-package questions;
+package questions.smallAndLargestNum;
 
 import java.util.Scanner;
 

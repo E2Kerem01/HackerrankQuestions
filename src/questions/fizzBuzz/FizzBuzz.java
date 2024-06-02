@@ -1,4 +1,4 @@
-package questions;
+package questions.fizzBuzz;
 
 import java.util.Scanner;
 
