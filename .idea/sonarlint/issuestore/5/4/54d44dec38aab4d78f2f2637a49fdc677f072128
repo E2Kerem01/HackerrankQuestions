@@ -1,0 +1,13 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀýÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éú‡“
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÓ·À
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è´æç
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŽŒÅ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿõ‰A
+Y
+java:S1155B">Use isEmpty() to check whether the collection is empty or not.(¯º÷çûÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(›¯ˆ÷
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ø£¯¾þÿÿÿÿ
